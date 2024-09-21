@@ -24,10 +24,10 @@ This template serves as an easy starting point for getting my projects shipped, 
 -   [Rojo](https://rojo.space/)
 -   [Rokit](https://github.com/rojo-rbx/rokit)
 -   [Wally](https://wally.run/)
--   [Wally-Package-Types]("https://github.com/JohnnyMorganz/wally-package-types")
+-   [WallyPackageTypes]("https://github.com/JohnnyMorganz/wally-package-types")
 -   [Selene]("https://github.com/Kampfkarren/selene")
 -   [Stylua]("https://github.com/JohnnyMorganz/StyLua")
--   [Luau-lsp]("https://github.com/JohnnyMorganz/luau-lsp")
+-   [LuauLSP]("https://github.com/JohnnyMorganz/luau-lsp")
 
 **The libraries used in this project include:**
 
