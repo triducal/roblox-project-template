@@ -1,0 +1,1 @@
+rojo sourcemap default.project.json -o sourcemap.json

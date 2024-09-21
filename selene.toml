@@ -1,0 +1,9 @@
+std = "selene_definitions"
+
+[config]
+global_usage = { ignore_pattern = "^__" }
+
+[rules]
+global_usage = "allow"
+# Allow mixed tables for creating Vide components
+mixed_table = "allow"
